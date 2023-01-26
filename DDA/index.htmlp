@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <title>Algoritmo Basico</title>
+</head>
+    <div class="container">
+
+        <div class="leftC">
+            <canvas id="canvas" width="500" height="500"></canvas><br>
+            <button onclick="Limpiar();">Limpiar</button>
+            <script src="js/app.js"></script>
+        </div>
+
+        
+    </div>  
+</body>
+</html>

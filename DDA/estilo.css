@@ -1,0 +1,11 @@
+#canvas{
+    border: 5px solid black;
+    background-color: #fff;
+}
+
+#Encabezado
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: chartreuse;
+}
